@@ -1,0 +1,4 @@
+/home/vitalii/ostrovska_lab2/CMakeFiles/rebuild_cache.dir
+/home/vitalii/ostrovska_lab2/CMakeFiles/name.dir
+/home/vitalii/ostrovska_lab2/CMakeFiles/edit_cache.dir
+/home/vitalii/ostrovska_lab2/CMakeFiles/main.dir
